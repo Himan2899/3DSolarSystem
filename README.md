@@ -81,6 +81,13 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 About the Creator
+🤝 Support
+If you find this project helpful, please give it a ⭐️ on GitHub!
 
-This project was created by Himanshu Bali, an aspiring Computer Science Engineer passionate about technology and innovation. You can learn more about the creator through the "About Creator" modal within the application. 
+📞 Contact
+For any queries or support, please reach out to us through:
+
+Email: himanshuofficialuserid@gmail.com
+Developed with ❤️ by Himanshu Bali 💻👨‍💻🚀
+
+DEPLOYMENT LINK : https://himan3dsolarsystem.vercel.app/
