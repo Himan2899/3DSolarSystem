@@ -79,9 +79,6 @@ The application will typically be accessible at `http://localhost:3000`.
 
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 🤝 Support
 If you find this project helpful, please give it a ⭐️ on GitHub!
